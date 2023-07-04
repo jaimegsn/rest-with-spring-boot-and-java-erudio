@@ -16,9 +16,9 @@ O curso "REST API's RESTFul do 0 à AWS com Spring Boot, Java e Docker" é um cu
 - Neste repositório, você encontrará diversos projetos, cada um correspondendo a uma etapa do curso. 
 - Cada projeto está organizado em um diretório separado.
 
-## Aqui está a lista dos projetos disponíveis:
+## Aqui está a lista dos projetos disponíveis com o que foi aprendido em cada um:
 
-- 01_FirstStepsInJavawithSpringBoot: Aprendido como criar um endpoint
-- 02_ParametersAndExceptionHandler: Aprendido sobre parametro na url com @PathVariable e a criar Exceções customizadas em conjunto com @ControllerAdvice
-- 03_WorkingWithVerbs: Aprendido a como utilizar os principais verbos: GET, POST, PUT e DELETE, sobre a camada Services e Models, sobre as annotations @Service, @RequestBody
-- 04_ConnectingToPostgreSQL: Aprendido injeção de dependências, conexão com o banco, configurar Banco, Data JPA e Hibernate no application.yml, camada de repositório, mapear entidades @Entity, @Table, @Column, @Id.., aprendidos sobre novas annotations para os controllers: @GetMapping, @PutMapping, @PostMapping e @DeleteMapping
+- 01_FirstStepsInJavawithSpringBoot: Criação de endpoint
+- 02_ParametersAndExceptionHandler: Pparametro na url com @PathVariable; Exceções customizadas; @ControllerAdvice
+- 03_WorkingWithVerbs: Verbos: GET, POST, PUT e DELETE; camada Services e Models; @Service; @RequestBody
+- 04_ConnectingToPostgreSQL: Injeção de dependências; Conexão com o banco; Configurar Banco, Data JPA e Hibernate no application.yml; Camada de repositório; Mapear entidades: @Entity, @Table, @Column, @Id..; Novas annotation para os controllers: @GetMapping, @PutMapping, @PostMapping e @DeleteMapping.
