@@ -19,6 +19,6 @@ O curso "REST API's RESTFul do 0 à AWS com Spring Boot, Java e Docker" é um cu
 ## Aqui está a lista dos projetos disponíveis com o que foi aprendido em cada um:
 
 - 01_FirstStepsInJavawithSpringBoot: Criação de endpoint
-- 02_ParametersAndExceptionHandler: Pparametro na url com @PathVariable; Exceções customizadas; @ControllerAdvice
+- 02_ParametersAndExceptionHandler: Parametro na url com @PathVariable; Exceções customizadas; @ControllerAdvice
 - 03_WorkingWithVerbs: Verbos: GET, POST, PUT e DELETE; camada Services e Models; @Service; @RequestBody
-- 04_ConnectingToPostgreSQL: Injeção de dependências; Conexão com o banco; Configurar Banco, Data JPA e Hibernate no application.yml; Camada de repositório; Mapear entidades: @Entity, @Table, @Column, @Id..; Novas annotation para os controllers: @GetMapping, @PutMapping, @PostMapping e @DeleteMapping.
+- 04_ConnectingToPostgreSQL: Injeção de dependências; Conexão com o banco; Configurar Banco, Data JPA e Hibernate no application.yml; Camada de repositório; Mapear entidades: @Entity, @Table, @Column, @Id...; Novas annotation para os controllers: @GetMapping, @PutMapping, @PostMapping e @DeleteMapping.
