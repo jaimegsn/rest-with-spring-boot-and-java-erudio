@@ -8,16 +8,17 @@ O curso "REST API's RESTFul do 0 à AWS com Spring Boot, Java e Docker" é um cu
 ## Alguns dos tópicos abordados no curso incluem:
 
 - Configuração e setup inicial do ambiente de desenvolvimento com Spring Boot e Docker.
-- Desenvolvimento de endpoints RESTful utilizando anotações do Spring MVC.
-- Manipulação de dados utilizando o Spring Data JPA e banco de dados MySQL.
+- Desenvolvimento de endpoints RESTful utilizando anotações do Spring.
+- Manipulação de dados utilizando o Spring Data JPA e banco de dados.
 - Autenticação e autorização de usuários utilizando Spring Security e JWT.
 - Implementação de testes unitários e testes de integração utilizando JUnit e Mockito.
 - Deploy da aplicação na nuvem AWS (Amazon Web Services) utilizando o serviço EC2.
-- Projetos
-- Neste repositório, você encontrará diversos projetos, cada um correspondendo a uma etapa do curso. Cada projeto está organizado em um - diretório separado e contém seu próprio README com instruções detalhadas de configuração e execução.
+- Neste repositório, você encontrará diversos projetos, cada um correspondendo a uma etapa do curso. 
+- Cada projeto está organizado em um diretório separado.
 
 ## Aqui está a lista dos projetos disponíveis:
 
-- project-1: Descrição breve do projeto 1.
-- project-2: Descrição breve do projeto 2.
-- project-3: Descrição breve do projeto 3.
+- 01_FirstStepsInJavawithSpringBoot: Aprendido como criar um endpoint
+- 02_ParametersAndExceptionHandler: Aprendido sobre parametro na url com @PathVariable e a criar Exceções customizadas em conjunto com @ControllerAdvice
+- 03_WorkingWithVerbs: Aprendido a como utilizar os principais verbos: GET, POST, PUT e DELETE, sobre a camada Services e Models, sobre as annotations @Service, @RequestBody
+- 04_ConnectingToPostgreSQL: Aprendido injeção de dependências, conexão com o banco, configurar Banco, Data JPA e Hibernate no application.yml, camada de repositório, mapear entidades @Entity, @Table, @Column, @Id.., aprendidos sobre novas annotations para os controllers: @GetMapping, @PutMapping, @PostMapping e @DeleteMapping
