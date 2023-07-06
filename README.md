@@ -8,7 +8,7 @@ O curso "REST API's RESTFul do 0 à AWS com Spring Boot, Java e Docker" é um cu
 ## Alguns dos tópicos abordados no curso incluem:
 
 - Configuração e setup inicial do ambiente de desenvolvimento com Spring Boot e Docker.
-- Desenvolvimento de endpoints RESTful utilizando anotações do Spring.
+- Desenvolvimento de endpoints RESTful utilizando Spring.
 - Manipulação de dados utilizando o Spring Data JPA e banco de dados.
 - Autenticação e autorização de usuários utilizando Spring Security e JWT.
 - Implementação de testes unitários e testes de integração utilizando JUnit e Mockito.
