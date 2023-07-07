@@ -1,4 +1,3 @@
-# rest-with-spring-boot-and-java-erudio
 # REST API's RESTFul do 0 à AWS com Spring Boot, Java e Docker
 Este repositório contém o código-fonte dos projetos desenvolvidos durante o curso "REST API's RESTFul do 0 à AWS com Spring Boot, Java e Docker" da Udemy. O objetivo deste curso é ensinar o desenvolvimento de APIs RESTful utilizando o framework Spring Boot, a linguagem Java e a tecnologia Docker.
 
@@ -22,3 +21,4 @@ O curso "REST API's RESTFul do 0 à AWS com Spring Boot, Java e Docker" é um cu
 - 02_ParametersAndExceptionHandler: Parametro na url com @PathVariable; Exceções customizadas; @ControllerAdvice
 - 03_WorkingWithVerbs: Verbos: GET, POST, PUT e DELETE; camada Services e Models; @Service; @RequestBody
 - 04_ConnectingToPostgreSQL: Injeção de dependências; Conexão com o banco; Configurar Banco, Data JPA e Hibernate no application.yml; Camada de repositório; Mapear entidades: @Entity, @Table, @Column, @Id...; Novas annotation para os controllers: @GetMapping, @PutMapping, @PostMapping e @DeleteMapping.
+- 05_WorkingWithDTOPattern: Padrão de design DTO e MapStruct
