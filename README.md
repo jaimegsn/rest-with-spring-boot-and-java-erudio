@@ -23,3 +23,4 @@ O curso "REST API's RESTFul do 0 à AWS com Spring Boot, Java e Docker" é um cu
 - 04_ConnectingToPostgreSQL: Injeção de dependências; Conexão com o banco; Configurar Banco, Data JPA e Hibernate no application.yml; Camada de repositório; Mapear entidades: @Entity, @Table, @Column, @Id...; Novas annotation para os controllers: @GetMapping, @PutMapping, @PostMapping e @DeleteMapping.
 - 05_WorkingWithDTOPattern: Padrão de design DTO e MapStruct
 - 06_VersioningEndpoints: Versionando a API
+- 07_MigrationsWithFlyWay: Implementei migrations com Flyway no Spring
