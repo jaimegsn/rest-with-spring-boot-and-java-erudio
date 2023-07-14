@@ -24,3 +24,4 @@ O curso "REST API's RESTFul do 0 à AWS com Spring Boot, Java e Docker" é um cu
 - 05_WorkingWithDTOPattern: Padrão de design DTO e MapStruct
 - 06_VersioningEndpoints: Versionando a API
 - 07_MigrationsWithFlyWay: Implementei migrations com Flyway no Spring
+- 08_CustomSerialization: API customizada, ordem de atributos no JSON, atributoes renomeados no JSON, ocultação de atributos no JSON...
